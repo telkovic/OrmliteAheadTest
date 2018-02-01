@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OrmliteAheadTest</string>
+    <string name="db_ahead_logging_enabled">Ahead logging enabled</string>
+    <string name="call_in_transaction">Call in transaction</string>
+    <string name="insert_sql_command">Insert</string>
+    <string name="update_sql_command">Update</string>
+    <string name="result">%s, ahead: %s, transaction: %s - affected rows %d</string>
+</resources>
